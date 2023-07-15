@@ -1,0 +1,96 @@
+1028;1;1;Cena  (Huevo Revuelto);6;6;0;;;;100
+1080;1;1;Papaya  Agua;8;9;3;;;;50
+1001;2;3;Filete de Res ;0;0;0;Platano Maduro;FF;;600
+1074;2;3;Limonada  Agua;8;12;3;;;;150
+1024;3;5;Baleada con Huevo ;6;5;1;;;;160
+1001;4;1;Filete de Res ;0;0;0;Platano Verde;RB;sin chimol, con aguacate;200
+1076;4;1;Melon  Agua;8;9;3;;;;50
+1045;5;5;Taco Flauta ;6;5;2;;;3 y 2;250
+1028;6;1;Cena  (Huevo Estrellado);6;6;0;;;dura;100
+1074;6;2;Limonada  Agua;8;12;3;;;;100
+1054;7;1;Chorizo ;7;7;0;;;;35
+1045;7;2;Taco Flauta ;6;5;2;;;;100
+1071;7;1;Fresa  Agua;8;9;3;;;;60
+1023;8;2;Baleada con Chorizo ;6;5;1;;;;90
+1045;9;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1011;10;4;Costilla Baby Back a la BBQ ;2;0;0;Platano Verde;FF;;780
+1076;10;1;Melon  Agua;8;9;3;;;;50
+1006;11;1;Filete de Pollo a la Plancha ;1;0;0;Guineo Verde;RB;chimichurri aparte;160
+1006;11;1;Filete de Pollo a la Plancha ;1;0;0;Guineo Verde;RB;;160
+1024;11;2;Baleada con Huevo ;6;5;1;;;;64
+1035;11;2;Enchilada de Res ;6;5;2;;;;75
+1028;12;1;Cena  (Huevo Estrellado);6;6;0;Platano Verde;;dura;100
+1028;12;1;Cena  (Huevo Estrellado);6;6;0;;;dura;100
+1024;13;3;Baleada con Huevo ;6;5;1;;;;96
+1043;14;2;Pupusa de Quesillo ;6;5;1;;;;65
+1044;14;4;Pupusa Mixta ;6;5;1;;;2 Y 2;150
+1028;15;1;Cena  (Huevo Estrellado);6;6;0;;;dura;100
+1026;15;3;Baleada Sencilla ;6;5;1;;;;75
+1028;16;1;Cena  (Huevo Estrellado);6;6;0;;;dura;100
+1024;16;2;Baleada con Huevo ;6;5;1;;;;64
+1024;17;4;Baleada con Huevo ;6;5;1;;;;128
+1041;18;2;Nacho con Todo ;6;5;0;;;;320
+1045;18;2;Taco Flauta ;6;5;2;;;;100
+1035;18;2;Enchilada de Res ;6;5;2;;;;75
+1029;19;2;Cena  (Huevo Revuelto);6;6;0;;;RB;200
+1020;19;1;Deditos de Pescado ;4;1;0;;;;175
+1003;19;2;Chicken Fingers ;1;1;0;;;;320
+1008;20;2;Filete de Pollo Empanizado ;1;0;0;Platano Verde;RB;;320
+1042;20;1;Nacho con Todo ;6;5;0;;;;160
+1016;20;1;Camarones Empanizados ;3;0;0;Papas Fritas;RB;;195
+1016;20;1;Camarones Empanizados ;3;0;0;Guineo Verde;RB;;195
+1016;20;1;Camarones Empanizados ;3;0;0;Platano Maduro;RB;;195
+1045;20;2;Pupusa Mixta ;6;5;1;;;y Frijoles;75
+1045;20;2;Pupusa Mixta ;6;5;1;;;y Frijoles;75
+1045;20;4;Pupusa Mixta ;6;5;1;;;;150
+1043;20;2;Pupusa de Loroco ;6;5;1;;;;75
+1049;20;2;Tortilla con Quesillo ;6;5;1;;;;76
+1045;20;2;Pupusa Mixta ;6;5;1;;;;75
+1074;20;1;Horchata ;8;11;3;;;;50
+1077;20;1;Melon  Agua;8;9;3;;;;50
+1085;20;1;Agua ;8;13;3;;;;25
+1074;20;1;Horchata ;8;11;3;;;;50
+1082;20;1;Pina  Agua;8;9;3;;;;50
+1088;20;1;Coca Cola ;8;13;3;;;;25
+1088;20;1;Coca Cola ;8;13;3;;;;25
+1086;20;1;Banana ;8;13;3;;;;25
+1085;20;2;Agua ;8;13;3;;;;50
+1074;20;1;Horchata ;8;11;3;;;;50
+1088;20;1;Coca Cola ;8;13;3;;;;25
+1074;20;1;Horchata ;8;11;3;;;;50
+1082;20;1;Pina  Agua;8;9;3;;;;50
+1085;20;1;Agua ;8;13;3;;;;25
+1074;20;1;Horchata ;8;11;3;;;;50
+1029;21;1;Cena  (Huevo Revuelto);6;6;0;;;con tomate y cebolla;100
+1027;22;1;Baleada Sencilla ;6;5;1;;;;25
+1025;22;1;Baleada con Huevo ;6;5;1;;;;32
+1027;23;3;Baleada Sencilla ;6;5;1;;;;75
+1025;23;2;Baleada con Huevo ;6;5;1;;;;64
+1045;23;2;Pupusa Mixta ;6;5;1;;;;75
+1046;23;1;Taco Flauta ;6;5;2;;;;50
+1044;24;6;Pupusa de Quesillo ;6;5;1;;;2 y 2;195
+1045;24;2;Pupusa Mixta ;6;5;1;;;;75
+1021;25;1;Mixto 2 Carnes  (Res - Pollo);5;2;0;Platano Verde;FF;;295
+1024;26;1;Baleada con Chorizo ;6;5;1;;;;45
+1060;26;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1028;26;1;Burrita ;6;5;2;;;solo frijoles y huevo;35
+1058;27;1;Orden de Huevo ;7;7;0;;;;10
+1046;27;2;Taco Flauta ;6;5;2;;;;100
+1060;27;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1060;27;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1029;28;1;Cena  (Huevo Revuelto);6;6;0;;;;100
+1029;29;1;Cena  (Huevo Estrellado);6;6;0;;;medio suave;100
+1037;29;1;Gringa de Pollo ;6;5;1;;;;70
+1072;29;1;Fresa  Agua;8;9;3;;;;60
+1082;29;1;Pina  Agua;8;9;3;;;;50
+1045;30;2;Pupusa Mixta ;6;5;1;;;;75
+1060;31;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1045;32;2;Pupusa Mixta ;6;5;1;;;;75
+1039;32;1;Gringa Mixta ;6;5;1;;;;70
+1046;32;1;Taco Flauta ;6;5;2;;;;50
+1060;32;1;Orden de Platano Maduro Solo;7;8;2;;;;20
+1044;33;6;Pupusa de Quesillo ;6;5;1;;;2 y 2;195
+1051;34;4;Aguacate ;7;7;0;;;;32
+1025;34;4;Baleada con Huevo ;6;5;1;;;y aguacate;128
+1027;35;2;Baleada Sencilla ;6;5;1;;;sin mantequilla;50
+1025;35;2;Baleada con Huevo ;6;5;1;;;sin mantequilla;64

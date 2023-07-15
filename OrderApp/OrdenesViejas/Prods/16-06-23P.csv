@@ -1,0 +1,242 @@
+1043;1;4;Pupusa de Loroco ;6;5;1;;;;150
+1038;1;1;Gringa de Chorizo ;6;5;1;;;;70
+1001;2;1;Filete de Res ;0;0;0;Platano Verde;FF;;200
+1072;2;1;Fresa  Agua;8;9;3;;;;60
+1014;3;1;Camarones a la Plancha ;3;0;0;Platano Verde;FF;;195
+1036;4;2;Enchilada de Res ;6;5;2;;;;75
+1075;4;2;Limonada  Soda;8;12;3;;;;120
+1043;5;2;Pupusa de Loroco ;6;5;1;;;;75
+1078;5;1;Naranja Agria  Agua;8;12;3;;;;60
+1027;6;2;Baleada Sencilla ;6;5;1;;;;50
+1075;6;1;Limonada  Agua;8;12;3;;;;50
+1048;7;1;Tajadas con Pollo ;6;5;0;;;sin chimol;120
+1056;7;1;Encurtido ;7;7;0;;;;10
+1051;7;3;Aguacate ;7;7;0;;;;24
+1025;7;2;Baleada con Huevo ;6;5;1;;;y aguacate;64
+1025;7;1;Baleada con Huevo ;6;5;1;;;y aguacate;32
+1027;7;1;Baleada Sencilla ;6;5;1;;;;25
+1078;7;1;Naranja Agria  Agua;8;12;3;;;;60
+1072;7;1;Fresa  Agua;8;9;3;;;;60
+1001;8;2;Filete de Res ;0;0;0;Guineo Verde;FF;;400
+1006;8;1;Filete de Pollo a la Plancha ;1;0;0;Guineo Verde;FF;;160
+1025;8;2;Baleada con Huevo ;6;5;1;;;;64
+1027;8;2;Baleada Sencilla ;6;5;1;;;;50
+1027;9;6;Baleada Sencilla ;6;5;1;;;;150
+1025;10;1;Baleada con Huevo ;6;5;1;;;;32
+1024;10;1;Baleada con Chorizo ;6;5;1;;;y huevo;45
+1072;10;1;Fresa  Agua;8;9;3;;;;60
+1003;11;1;Chicken Fingers ;1;1;0;;;;160
+1041;11;1;Nacho con Pollo ;6;5;0;;;;135
+1043;11;4;Pupusa de Loroco ;6;5;1;;;2 y 2;150
+1046;11;2;Taco Flauta ;6;5;2;;;;100
+1083;11;1;Sandia  Agua;8;9;3;;;;50
+1077;11;2;Melon  Agua;8;9;3;;;;100
+1077;11;2;Melon  Agua;8;9;3;;;con splenda;100
+1004;12;1;Chicken Fingers Infantil ;1;1;0;;;;110
+1029;13;1;Cena  (Huevo Revuelto);6;6;0;;;;100
+1039;13;1;Gringa Mixta ;6;5;1;;;;70
+1011;14;1;Costilla Baby Back a la BBQ ;2;0;0;Platano Verde;FF;;195
+1002;14;1;Lomito de Res ;0;0;0;Platano Verde;FF;;185
+1078;14;1;Naranja Agria  Agua;8;12;3;;;;60
+1051;15;2;Aguacate ;7;7;0;;;;16
+1025;15;1;Baleada con Huevo ;6;5;1;;;con aguacate, sin queso;32
+1027;15;2;Baleada Sencilla ;6;5;1;;;sin mantequilla;50
+1083;15;1;Sandia  Agua;8;9;3;;;;50
+1092;15;1;Sprite ;8;13;3;;;;25
+1046;16;1;Taco Flauta ;6;5;2;;;;50
+1083;16;1;Sandia  Agua;8;9;3;;;;50
+1012;17;1;Costilla de Cerdo a la BBQ ;2;0;0;Platano Verde;FF;BBQ en tajadas, salsa;175
+1012;17;1;Costilla de Cerdo a la BBQ ;2;0;0;Platano Verde;RB;BBQ en tajadas, salsa;175
+1025;18;4;Baleada con Huevo ;6;5;1;;;;128
+1046;19;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1045;20;3;Pupusa Mixta ;6;5;1;;;;113
+1044;20;1;Pupusa de Quesillo ;6;5;1;;;;33
+1044;20;2;Pupusa de Quesillo ;6;5;1;;;;65
+1045;20;1;Pupusa Mixta ;6;5;1;;;;38
+1027;21;6;Baleada Sencilla ;6;5;1;;;;150
+1024;21;3;Baleada con Chorizo ;6;5;1;;;y huevo;135
+1046;21;2;Taco Flauta ;6;5;2;;;;100
+1091;21;1;Pepis ;8;13;3;;;;25
+1001;22;1;Filete de Res ;0;0;0;Guineo Verde;FF;;200
+1027;23;1;Baleada Sencilla ;6;5;1;;;sin lacteos;25
+1027;23;2;Baleada Sencilla ;6;5;1;;;sin mantequilla;50
+1027;23;1;Baleada Sencilla ;6;5;1;;;sin lacteos;25
+1001;24;1;Filete de Res ;0;0;0;Platano Verde;RB;;200
+1011;24;1;Costilla Baby Back a la BBQ ;2;0;0;Platano Verde;RB;;195
+1043;25;5;Pupusa de Loroco ;6;5;1;;;2 y 3;188
+1027;25;2;Baleada Sencilla ;6;5;1;;;;50
+1027;26;2;Baleada Sencilla ;6;5;1;;;sin mantequilla;50
+1001;27;1;Filete de Res ;0;0;0;Platano Verde;RB;;200
+1005;27;2;Filete de Pollo a la BBQ ;1;0;0;Papas Fritas;RB;;320
+1044;27;2;Pupusa de Quesillo ;6;5;1;;;;65
+1027;27;1;Baleada Sencilla ;6;5;1;;;;25
+1039;28;1;Gringa Mixta ;6;5;1;;;;70
+1038;29;1;Gringa de Chorizo ;6;5;1;;;;70
+1027;29;2;Baleada Sencilla ;6;5;1;;;;50
+1078;29;1;Naranja Agria  Agua;8;12;3;;;;60
+1072;29;1;Fresa  Agua;8;9;3;;;;60
+1075;29;1;Limonada  Agua;8;12;3;;;;50
+1001;30;1;Filete de Res ;0;0;0;Guineo Verde;RB;;200
+1046;30;1;Taco Flauta ;6;5;2;;;;50
+1012;31;1;Costilla de Cerdo a la BBQ ;2;0;0;Guineo Verde;FF;;175
+1007;32;1;Filete de Pollo al Ajillo ;1;0;0;Platano Verde;FF;;160
+1004;32;1;Chicken Fingers Infantil ;1;1;0;;;;110
+1016;33;1;Camarones Empanizados ;3;0;0;Platano Verde;RB;;195
+1006;33;1;Filete de Pollo a la Plancha ;1;0;0;Platano Verde;FF;;160
+1046;33;1;Taco Flauta ;6;5;2;;;;50
+1078;33;1;Naranja Agria  Agua;8;12;3;;;;60
+1078;33;1;Naranja Agria  Agua;8;12;3;;;;60
+1043;34;1;Pupusa de Loroco ;6;5;1;;;;38
+1045;34;1;Pupusa Mixta ;6;5;1;;;;38
+1044;34;1;Pupusa de Quesillo ;6;5;1;;;;33
+1045;34;1;Pupusa Mixta ;6;5;1;;;;38
+1043;34;1;Pupusa de Loroco ;6;5;1;;;;38
+1045;34;1;Pupusa Mixta ;6;5;1;;;;38
+1083;34;1;Sandia  Agua;8;9;3;;;;50
+1045;35;2;Pupusa Mixta ;6;5;1;;;;75
+1048;36;2;Tajadas con Pollo ;6;5;0;;;;240
+1025;36;1;Baleada con Huevo ;6;5;1;;;;32
+1027;36;1;Baleada Sencilla ;6;5;1;;;;25
+1060;36;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1029;37;1;Cena  (Huevo Estrellado);6;6;0;;;;100
+1030;38;2;Cena con Res  (Torta);6;6;0;;;;420
+1030;38;5;Cena con Res  (Huevo Estrellado);6;6;0;;;;1050
+1072;38;1;Fresa  Agua;8;9;3;;;;60
+1078;38;1;Naranja Agria  Agua;8;12;3;;;;60
+1083;38;1;Sandia  Agua;8;9;3;;;;50
+1042;39;2;Nacho con Todo ;6;5;0;;;;320
+1044;39;1;Pupusa de Quesillo ;6;5;1;;;;33
+1045;39;1;Pupusa Mixta ;6;5;1;;;;38
+1081;39;2;Papaya  Agua;8;9;3;;;;100
+1007;40;1;Filete de Pollo al Ajillo ;1;0;0;Guineo Verde;FF;;160
+1002;40;1;Lomito de Res ;0;0;0;Guineo Verde;FF;;185
+1055;40;1;Chorizo ;7;7;0;;;;35
+1025;41;2;Baleada con Huevo ;6;5;1;;;sin mantequilla;64
+1083;41;1;Sandia  Agua;8;9;3;;;;50
+1040;42;3;Nacho con Frijoles y Quesillo ;6;5;0;;;;300
+1025;42;1;Baleada con Huevo ;6;5;1;;;;32
+1025;42;2;Baleada con Huevo ;6;5;1;;;sin lacteos;64
+1051;43;2;Aguacate ;7;7;0;;;;16
+1027;43;2;Baleada Sencilla ;6;5;1;;;con aguacate;50
+1024;43;2;Baleada con Chorizo ;6;5;1;;;y huevo;90
+1074;43;1;Horchata ;8;11;3;;;;50
+1045;44;2;Pupusa Mixta ;6;5;1;;;;75
+1044;44;1;Pupusa de Quesillo ;6;5;1;;;;33
+1007;45;1;Filete de Pollo al Ajillo ;1;0;0;Platano Verde;FF;;160
+1045;45;2;Pupusa Mixta ;6;5;1;;;;75
+1019;46;1;Filete de Pescado Empanizado ;4;0;0;Papas Fritas;RB;sin chimol, sin encurtido;175
+1025;46;3;Baleada con Huevo ;6;5;1;;;sin mantequilla;96
+1078;46;1;Naranja Agria  Agua;8;12;3;;;;60
+1045;47;4;Pupusa Mixta ;6;5;1;;;2 y 2;150
+1029;48;1;Cena  (Huevo Estrellado);6;6;0;;;suave;100
+1077;48;1;Melon  Agua;8;9;3;;;;50
+1029;49;1;Cena  (Huevo Estrellado);6;6;0;;;medio suave;100
+1029;49;1;Cena  (Omelette);6;6;0;;;cebo - yomate - chile;100
+1082;49;1;Pina  Agua;8;9;3;;;;50
+1078;49;1;Naranja Agria  Agua;8;12;3;;;1/2 azucar;60
+1027;50;1;Baleada Sencilla ;6;5;1;;;;25
+1024;50;1;Baleada con Chorizo ;6;5;1;;;;45
+1025;51;2;Baleada con Huevo ;6;5;1;;;;64
+1025;51;1;Baleada con Huevo ;6;5;1;;;sin mantequilla;32
+1024;51;1;Baleada con Chorizo ;6;5;1;;;;45
+1075;52;1;Limonada  Agua;8;12;3;;;;50
+1045;53;4;Pupusa Mixta ;6;5;1;;;2 y 2;150
+1043;54;2;Pupusa de Loroco ;6;5;1;;;;75
+1043;54;1;Pupusa de Loroco ;6;5;1;;;;38
+1046;55;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1027;56;1;Baleada Sencilla ;6;5;1;;;;25
+1025;56;1;Baleada con Huevo ;6;5;1;;;;32
+1024;57;1;Baleada con Chorizo ;6;5;1;;;y huevo;45
+1027;57;1;Baleada Sencilla ;6;5;1;;;;25
+1045;58;4;Pupusa Mixta ;6;5;1;;;2 y 2;150
+1037;58;1;Gringa de Pollo ;6;5;1;;;;70
+1012;59;1;Costilla de Cerdo a la BBQ ;2;0;0;Platano Maduro;RB;;175
+1045;59;2;Pupusa Mixta ;6;5;1;;;;75
+1072;59;1;Fresa  Agua;8;9;3;;;;60
+1085;59;1;Agua ;8;13;3;;;;25
+1046;60;2;Taco Flauta ;6;5;2;;;;100
+1046;60;2;Taco Flauta ;6;5;2;;;;100
+1083;60;1;Sandia  Agua;8;9;3;;;;50
+1074;60;1;Horchata ;8;11;3;;;;50
+1045;61;2;Pupusa Mixta ;6;5;1;;;;75
+1036;61;2;Enchilada de Res ;6;5;2;;;;75
+1083;61;1;Sandia  Agua;8;9;3;;;;50
+1002;62;1;Lomito de Res ;0;0;0;Guineo Verde;RB;;185
+1072;62;1;Fresa Narjanja Agria Agua;8;9;3;;;;80
+1045;63;6;Pupusa Mixta ;6;5;1;;;2 y 2;225
+1044;63;2;Pupusa de Quesillo ;6;5;1;;;;65
+1017;64;1;Filete de Pescado a la Plancha ;4;0;0;Platano Verde;RB;;175
+1027;65;2;Baleada Sencilla ;6;5;1;;;;50
+1077;65;2;Melon  Agua;8;9;3;;;;100
+1045;66;3;Pupusa Mixta ;6;5;1;;;;113
+1006;67;1;Filete de Pollo a la Plancha ;1;0;0;Platano Verde;FF;;160
+1045;68;10;Pupusa Mixta ;6;5;1;;;2 y 2;375
+1043;68;10;Pupusa de Loroco ;6;5;1;;;2 y 2;375
+1060;68;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1060;68;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1060;68;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1072;68;2;Fresa  Agua;8;9;3;;;;120
+1029;69;1;Cena  (Torta);6;6;0;;;;100
+1037;69;1;Gringa de Pollo ;6;5;1;;;;70
+1077;69;1;Melon  Agua;8;9;3;;;;50
+1077;69;1;Melon  Agua;8;9;3;;;;50
+1027;70;1;Baleada Sencilla ;6;5;1;;;;25
+1075;70;1;Limonada  Agua;8;12;3;;;;50
+1051;71;1;Aguacate ;7;7;0;;;;8
+1025;71;1;Baleada con Huevo ;6;5;1;;;y aguacate;32
+1082;71;1;Pina  Agua;8;9;3;;;;50
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1027;72;1;Baleada Sencilla ;6;5;1;;;;25
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1026;72;1;Baleada con Pollo ;6;5;1;;;;45
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1036;72;1;Enchilada de Res ;6;5;2;;;sin repollo, con chimol;38
+1074;72;1;Horchata ;8;11;3;;;;50
+1074;72;2;Horchata ;8;11;3;;;;100
+1077;72;1;Melon  Agua;8;9;3;;;1/2 azucar;50
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1027;72;1;Baleada Sencilla ;6;5;1;;;;25
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1026;72;1;Baleada con Pollo ;6;5;1;;;;45
+1025;72;1;Baleada con Huevo ;6;5;1;;;;32
+1036;72;1;Enchilada de Res ;6;5;2;;;sin repollo, con chimol;38
+1074;72;1;Horchata ;8;11;3;;;;50
+1074;72;2;Horchata ;8;11;3;;;;100
+1077;72;1;Melon  Agua;8;9;3;;;1/2 azucar;50
+1025;73;2;Baleada con Huevo ;6;5;1;;;;64
+1046;73;2;Taco Flauta ;6;5;2;;;;100
+1051;74;2;Aguacate ;7;7;0;;;;16
+1027;74;2;Baleada Sencilla ;6;5;1;;;;50
+1025;74;2;Baleada con Huevo ;6;5;1;;;y aguacate;64
+1024;74;1;Baleada con Chorizo ;6;5;1;;;y huevo;45
+1078;74;2;Naranja Agria  Agua;8;12;3;;;;120
+1029;75;1;Cena  (Huevo Estrellado);6;6;0;;;;100
+1044;75;1;Pupusa de Quesillo ;6;5;1;;;;33
+1045;75;1;Pupusa Mixta ;6;5;1;;;;38
+1046;75;1;Taco Flauta ;6;5;2;;;;50
+1046;76;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1045;77;1;Pupusa Mixta ;6;5;1;;;;38
+1029;78;1;Cena  (Huevo Estrellado);6;6;0;;;;100
+1044;78;6;Pupusa de Quesillo ;6;5;1;;;2 y 2;195
+1053;79;1;Chimichurri ;7;7;0;;;;20
+1024;79;1;Baleada con Chorizo ;6;5;1;;;y huevo sin mantequilla;45
+1025;79;1;Baleada con Huevo ;6;5;1;;;partida;32
+1045;79;1;Pupusa Mixta ;6;5;1;;;;38
+1046;79;2;Taco Flauta ;6;5;2;;;1 y 1;100
+1060;79;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;con carne, mantequilla y queso;40
+1072;79;1;Fresa Limon Agua;8;9;3;;; y sandia;80
+1085;79;1;Agua ;8;13;3;;;;25
+1047;80;1;Tajadas con Carne Molida ;6;5;0;;;guieneo verde;120
+1056;80;1;Encurtido ;7;7;0;;;;10
+1051;80;1;Aguacate ;7;7;0;;;;8
+1025;80;2;Baleada con Huevo ;6;5;1;;;y aguacate, sin mantequilla;64
+1026;80;1;Baleada con Pollo ;6;5;1;;;sin mantequilla;45
+1027;80;2;Baleada Sencilla ;6;5;1;;;sin mantequilla;50
+1082;80;1;Pina  Agua;8;9;3;;;;50
+1077;80;1;Melon  Agua;8;9;3;;;;50
+1072;80;1;Fresa  Agua;8;9;3;;;;60
+1085;80;2;Agua ;8;13;3;;;;50
+1049;81;2;Tortilla con Quesillo ;6;5;1;;;;76
+1025;81;1;Baleada con Huevo ;6;5;1;;;y aguacate;32
+1088;81;1;Coca Cola ;8;13;3;;;;25
+1075;81;1;Limonada  Agua;8;12;3;;;;50

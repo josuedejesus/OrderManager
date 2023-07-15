@@ -1,0 +1,48 @@
+1035;1;3;Enchilada de Res ;6;5;2;;;;113
+1081;1;1;Sandia  Agua;8;9;3;;;;50
+1006;2;1;Filete de Pollo a la Plancha ;1;0;0;Platano Verde;FF;tipo chuco sin repollo, solo salsa chimol y encurtido;160
+1008;2;1;Filete de Pollo Empanizado ;1;0;0;Platano Verde;FF;;160
+1010;2;1;Chuleta de Cerdo a la Plancha ;2;0;0;Platano Verde;FF;sin encurtido, con mas chimol;160
+1034;2;1;Enchilada de Pollo ;6;5;2;;;sin repollo;38
+1072;2;1;Horchata ;8;11;3;;;;50
+1073;2;2;Limonada  Agua;8;12;3;;;;100
+1079;2;1;Papaya  Agua;8;9;3;;;;50
+1045;3;2;Taco Flauta ;6;5;2;;;;100
+1072;3;1;Horchata ;8;11;3;;;;50
+1006;4;1;Filete de Pollo a la Plancha ;1;0;0;Platano Verde;RB;;160
+1045;4;2;Taco Flauta ;6;5;2;;;;100
+1058;5;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1058;5;1;Orden de Platano Maduro Frijoles - Queso - Mantequilla;7;8;2;;;;40
+1019;6;2;Filete de Pescado Empanizado ;4;0;0;Platano Verde;RB;;350
+1075;6;1;Melon  Agua;8;9;3;;;;50
+1079;6;1;Papaya  Agua;8;9;3;;;;50
+1003;7;1;Chicken Fingers ;1;1;0;;;;160
+1054;8;1;Encurtido ;7;7;0;;;;10
+1054;8;2;Encurtido ;7;7;0;;;;20
+1045;8;6;Taco Flauta ;6;5;2;;;2 en 2;300
+1076;8;2;Naranja Agria  Agua;8;12;3;;;;120
+1028;9;1;Cena  (Huevo Revuelto);6;6;0;;;sin embutido, sin aguacate;100
+1053;9;1;Chorizo ;7;7;0;;;;35
+1065;9;1;Tortilla de Harina ;7;7;1;;;;10
+1003;10;1;Chicken Fingers ;1;1;0;;;;160
+1045;11;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1054;12;1;Encurtido ;7;7;0;;;;10
+1052;12;1;Chimol ;7;7;0;;;;10
+1045;12;4;Taco Flauta ;6;5;2;;;2 y 2;200
+1040;13;1;Nacho con Pollo ;6;5;0;;;;135
+1028;14;1;Cena  (Huevo Estrellado);6;6;0;;;;100
+1046;14;1;Tajadas con Carne Molida ;6;5;0;;;;120
+1028;15;1;Cena  (Huevo Estrellado);6;6;0;;;;100
+1073;16;1;Limonada  Agua;8;12;3;;;;50
+1046;17;3;Tajadas con Carne Molida ;6;5;0;;;;360
+1010;17;1;Chuleta de Cerdo a la Plancha ;2;0;0;Platano Verde;FF;;160
+1035;17;2;Enchilada de Res ;6;5;2;;;;75
+1034;18;2;Enchilada de Pollo ;6;5;2;;;;75
+1075;19;1;Melon  Agua;8;9;3;;;;50
+1028;20;1;Cena  (Huevo Estrellado);6;6;0;;;media suave;100
+1045;20;2;Taco Flauta ;6;5;2;;;;100
+1001;21;2;Filete de Res ;0;0;0;Platano Verde;FF;;400
+1073;21;1;Limonada  Agua;8;12;3;;;;50
+1007;22;2;Filete de Pollo al Ajillo ;1;0;0;Platano Verde;FF;;320
+1007;22;1;Filete de Pollo al Ajillo ;1;0;0;Platano Verde;RB;;160
+1045;22;2;Taco Flauta ;6;5;2;;;;100

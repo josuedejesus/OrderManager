@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>opcionesProducto</class>
+ <widget class="QDialog" name="opcionesProducto">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>413</width>
+    <height>358</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Opciones de Plato</string>
+  </property>
+  <widget class="QTextEdit" name="txt_comment">
+   <property name="geometry">
+    <rect>
+     <x>6</x>
+     <y>180</y>
+     <width>401</width>
+     <height>61</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_comp2">
+   <property name="geometry">
+    <rect>
+     <x>16</x>
+     <y>130</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Complemento 2</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="combo_comp1">
+   <property name="geometry">
+    <rect>
+     <x>146</x>
+     <y>98</y>
+     <width>172</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <item>
+    <property name="text">
+     <string>Platano Verde</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guineo Verde</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Papas Fritas</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Totillas de Maíz</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Platano Maduro</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="butt_cancel">
+   <property name="geometry">
+    <rect>
+     <x>356</x>
+     <y>300</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_comment">
+   <property name="geometry">
+    <rect>
+     <x>16</x>
+     <y>160</y>
+     <width>81</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Comentario</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_comp1">
+   <property name="geometry">
+    <rect>
+     <x>16</x>
+     <y>100</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Complemento 1</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="combo_comp2">
+   <property name="geometry">
+    <rect>
+     <x>146</x>
+     <y>128</y>
+     <width>172</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <item>
+    <property name="text">
+     <string>Frijoles Fritos</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rice and Beans</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QPushButton" name="butt_ok">
+   <property name="geometry">
+    <rect>
+     <x>304</x>
+     <y>300</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_producto">
+   <property name="geometry">
+    <rect>
+     <x>16</x>
+     <y>10</y>
+     <width>241</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="combo_base">
+   <property name="geometry">
+    <rect>
+     <x>146</x>
+     <y>68</y>
+     <width>172</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <item>
+    <property name="text">
+     <string>Res - Pollo</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Res - Chuleta</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Res - Costilla</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QLabel" name="label_base">
+   <property name="geometry">
+    <rect>
+     <x>21</x>
+     <y>70</y>
+     <width>111</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Tipo de Carnes</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>287</x>
+     <y>250</y>
+     <width>41</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Valor:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_valor">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>250</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="butt_extra">
+   <property name="geometry">
+    <rect>
+     <x>6</x>
+     <y>244</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>40</width>
+     <height>40</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="spin_cantidad">
+   <property name="geometry">
+    <rect>
+     <x>146</x>
+     <y>38</y>
+     <width>51</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="readOnly">
+    <bool>false</bool>
+   </property>
+   <property name="minimum">
+    <number>1</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_cantidad">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>40</y>
+     <width>61</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="text">
+    <string>Cantidad</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="butt_actions">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>70</y>
+     <width>21</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>spin_cantidad</sender>
+   <signal>textChanged(QString)</signal>
+   <receiver>butt_actions</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>160</x>
+     <y>48</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>347</x>
+     <y>151</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>combo_base</sender>
+   <signal>currentIndexChanged(int)</signal>
+   <receiver>butt_actions</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>78</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>357</x>
+     <y>81</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>combo_comp1</sender>
+   <signal>currentTextChanged(QString)</signal>
+   <receiver>butt_actions</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>231</x>
+     <y>110</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>390</x>
+     <y>81</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
